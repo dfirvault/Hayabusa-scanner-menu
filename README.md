@@ -1,4 +1,4 @@
-# Hayabusa Event Log Processing Tool
+# Hayabusa Event Log Scanner Menu
 
 **Version:** 1.2 (Includes HTML Report Support)  
 **Author:** DFIRVault
