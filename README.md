@@ -1,7 +1,8 @@
 # Hayabusa Event Log Scanner Menu
 
 <img width="977" height="510" alt="image" src="https://github.com/user-attachments/assets/352a5f97-8325-4017-ae72-d8e1a8dda191" />
-![WindowsSandboxRemoteSession_3dOWevfA7m](https://github.com/user-attachments/assets/c221d81f-e630-4e97-b08e-13364224c547)
+![WindowsSandboxRemoteSession_3dOWevfA7m](https://github.com/user-attachments/assets/4d204f41-d243-4c0d-95f3-a46cf2351634)
+
 
 **Version:** 1.2 (Includes HTML Report Support)  
 **Author:** DFIRVault
